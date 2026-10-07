@@ -1,6 +1,6 @@
 import os
 
-
+# 韩
 def create_folder_path(dir: str = ''):
     """
     若 dir 路径存在，返回 True；
